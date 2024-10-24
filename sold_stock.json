@@ -1,0 +1,866 @@
+[
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110000",
+        "Date": "2024-08-30"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110002",
+        "Date": "2024-08-24"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110005",
+        "Date": "2024-09-25"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110006",
+        "Date": "2024-09-08"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110007",
+        "Date": "2024-10-09"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110009",
+        "Date": "2024-09-20"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110010",
+        "Date": "2024-09-20"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110011",
+        "Date": "2024-08-04"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110012",
+        "Date": "2024-08-19"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110014",
+        "Date": "2024-08-09"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110015",
+        "Date": "2024-10-11"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110016",
+        "Date": "2024-07-27"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110017",
+        "Date": "2024-08-07"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA1",
+        "ID": "WA110019",
+        "Date": "2024-09-08"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210001",
+        "Date": "2024-10-09"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210003",
+        "Date": "2024-09-20"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210006",
+        "Date": "2024-08-25"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210007",
+        "Date": "2024-09-07"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210009",
+        "Date": "2024-09-04"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210011",
+        "Date": "2024-10-21"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210013",
+        "Date": "2024-10-05"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210014",
+        "Date": "2024-09-29"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA2",
+        "ID": "WA210019",
+        "Date": "2024-09-28"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310001",
+        "Date": "2024-08-15"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310006",
+        "Date": "2024-08-03"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310011",
+        "Date": "2024-08-24"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WA3",
+        "ID": "WA310019",
+        "Date": "2024-09-30"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110000",
+        "Date": "2024-10-22"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110001",
+        "Date": "2024-09-24"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110002",
+        "Date": "2024-08-01"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110006",
+        "Date": "2024-09-05"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110015",
+        "Date": "2024-08-30"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110017",
+        "Date": "2024-09-06"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC110019",
+        "Date": "2024-09-30"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210000",
+        "Date": "2024-10-10"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210001",
+        "Date": "2024-08-13"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210006",
+        "Date": "2024-10-09"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210007",
+        "Date": "2024-08-29"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210010",
+        "Date": "2024-08-12"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210013",
+        "Date": "2024-10-09"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210014",
+        "Date": "2024-08-16"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210017",
+        "Date": "2024-09-12"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC210018",
+        "Date": "2024-08-07"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310001",
+        "Date": "2024-10-01"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310003",
+        "Date": "2024-10-23"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310004",
+        "Date": "2024-10-09"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310007",
+        "Date": "2024-09-25"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310011",
+        "Date": "2024-08-17"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310012",
+        "Date": "2024-09-24"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310014",
+        "Date": "2024-09-13"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310015",
+        "Date": "2024-08-30"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310017",
+        "Date": "2024-10-18"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310018",
+        "Date": "2024-09-11"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC310019",
+        "Date": "2024-10-16"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110000",
+        "Date": "2024-09-12"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110004",
+        "Date": "2024-09-01"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110006",
+        "Date": "2024-09-18"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110008",
+        "Date": "2024-10-12"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110012",
+        "Date": "2024-08-29"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110018",
+        "Date": "2024-09-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR110019",
+        "Date": "2024-09-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210001",
+        "Date": "2024-09-27"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210002",
+        "Date": "2024-09-29"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210003",
+        "Date": "2024-08-18"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210004",
+        "Date": "2024-10-08"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210007",
+        "Date": "2024-09-27"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210008",
+        "Date": "2024-08-19"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210009",
+        "Date": "2024-10-10"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210012",
+        "Date": "2024-08-02"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210013",
+        "Date": "2024-07-27"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210014",
+        "Date": "2024-08-02"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210015",
+        "Date": "2024-08-06"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210018",
+        "Date": "2024-08-24"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR2",
+        "ID": "FR210019",
+        "Date": "2024-10-04"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310000",
+        "Date": "2024-10-18"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310002",
+        "Date": "2024-08-23"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310005",
+        "Date": "2024-08-04"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310006",
+        "Date": "2024-08-10"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310009",
+        "Date": "2024-10-23"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310010",
+        "Date": "2024-08-22"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310011",
+        "Date": "2024-09-16"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310012",
+        "Date": "2024-08-15"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310016",
+        "Date": "2024-09-29"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR3",
+        "ID": "FR310017",
+        "Date": "2024-09-30"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110001",
+        "Date": "2024-08-14"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110009",
+        "Date": "2024-10-14"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110015",
+        "Date": "2024-09-13"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110018",
+        "Date": "2024-10-22"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV110019",
+        "Date": "2024-10-14"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210001",
+        "Date": "2024-08-11"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210004",
+        "Date": "2024-08-23"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210005",
+        "Date": "2024-08-20"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210006",
+        "Date": "2024-09-26"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210007",
+        "Date": "2024-08-22"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210008",
+        "Date": "2024-09-19"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210009",
+        "Date": "2024-10-03"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210010",
+        "Date": "2024-07-31"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210013",
+        "Date": "2024-08-13"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210017",
+        "Date": "2024-07-28"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV210018",
+        "Date": "2024-07-27"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310000",
+        "Date": "2024-07-26"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310003",
+        "Date": "2024-09-20"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310004",
+        "Date": "2024-10-07"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310005",
+        "Date": "2024-08-04"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310008",
+        "Date": "2024-10-12"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310009",
+        "Date": "2024-08-08"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310010",
+        "Date": "2024-08-05"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310011",
+        "Date": "2024-08-26"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310012",
+        "Date": "2024-08-28"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310014",
+        "Date": "2024-10-23"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV310015",
+        "Date": "2024-08-08"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110000",
+        "Date": "2024-10-24"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110001",
+        "Date": "2024-08-06"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110002",
+        "Date": "2024-09-24"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110003",
+        "Date": "2024-07-26"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110004",
+        "Date": "2024-07-27"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110007",
+        "Date": "2024-08-16"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110008",
+        "Date": "2024-09-08"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110011",
+        "Date": "2024-08-07"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110013",
+        "Date": "2024-08-14"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110014",
+        "Date": "2024-10-10"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110016",
+        "Date": "2024-10-07"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110017",
+        "Date": "2024-07-28"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO1",
+        "ID": "HO110018",
+        "Date": "2024-10-10"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210000",
+        "Date": "2024-10-08"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210001",
+        "Date": "2024-10-24"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210002",
+        "Date": "2024-10-11"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210004",
+        "Date": "2024-09-24"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210009",
+        "Date": "2024-08-13"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210010",
+        "Date": "2024-08-09"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210013",
+        "Date": "2024-08-17"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210016",
+        "Date": "2024-10-15"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO2",
+        "ID": "HO210019",
+        "Date": "2024-08-02"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310000",
+        "Date": "2024-08-21"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310001",
+        "Date": "2024-08-06"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310002",
+        "Date": "2024-10-07"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310005",
+        "Date": "2024-09-04"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310007",
+        "Date": "2024-09-03"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310012",
+        "Date": "2024-08-07"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310013",
+        "Date": "2024-08-26"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310014",
+        "Date": "2024-08-27"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310017",
+        "Date": "2024-10-21"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310018",
+        "Date": "2024-10-03"
+    },
+    {
+        "Category": "Home Theatre",
+        "Model": "HO3",
+        "ID": "HO310019",
+        "Date": "2024-08-16"
+    }
+]
